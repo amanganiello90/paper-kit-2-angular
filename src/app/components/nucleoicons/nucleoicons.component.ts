@@ -11,13 +11,13 @@ export class NucleoiconsComponent implements OnInit, OnDestroy {
 
     ngOnInit() {
         const body = document.getElementsByTagName('app-nucleoicons')[0];
-        let navbar = document.getElementsByTagName('app-navbar')[0].children[0];
-        navbar.classList.add('navbar-hidden');
+        // let navbar = document.getElementsByTagName('app-navbar')[0].children[0];
+        // navbar.classList.add('navbar-hidden');
         body.classList.add('demo-icons');
     }
 
-    ngOnDestroy(){
-        let navbar = document.getElementsByTagName('app-navbar')[0].children[0];
-        navbar.classList.remove('navbar-hidden');
+    ngOnDestroy() {
+        // let navbar = document.getElementsByTagName('app-navbar')[0].children[0];
+        // navbar.classList.remove('navbar-hidden');
     }
 }

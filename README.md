@@ -15,8 +15,10 @@ Paper Kit 2 Angular is using Ng Bootstrap (https://ng-bootstrap.github.io/#/home
 
 Paper Kit 2 Angular is built on top of Bootstrap 4, so it fully supports it. Most of the elements from the framework are re-designed to resemble sheets of paper and color pastels. If the are elements that we have not touched, they will gracefully fall back to the Bootstrap 4 default.
 
+
 ## Table of Contents
 
+* [Developments](#developments)
 * [Versions](#versions)
 * [Demo](#demo)
 * [Quick Start](#quick-start)
@@ -29,6 +31,9 @@ Paper Kit 2 Angular is built on top of Bootstrap 4, so it fully supports it. Mos
 * [Licensing](#licensing)
 * [Useful Links](#useful-links)
 
+## Developments
+
+[x] forked repo and modified navbar navigator
 
 ## Versions
 
